@@ -1,0 +1,23 @@
+{
+    "name": "tpnpm01",
+    "version": "1.0.0",
+    "description": "\"Tp hotel-app-console\"",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/adjanorpro18/hotel-web-api.git"
+    },
+    "author": "enyonadjanor",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/adjanorpro18/hotel-web-api/issues"
+    },
+    "homepage": "https://github.com/adjanorpro18/hotel-web-api#readme",
+    "dependencies": {
+        "request": "^2.88.2"
+    }
+}
